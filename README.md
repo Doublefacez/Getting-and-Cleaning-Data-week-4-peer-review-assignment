@@ -2,6 +2,7 @@
 The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
 •First, download and unzip the data file into your R working directory.
+
 •Second, download the R source code into your R working directory.
 •Finally, execute R source code to generate tidy data file.
 
